@@ -140,6 +140,7 @@ class Ui_MainWindow(object):
         MainWindow.is_focused.connect(self.is_focused)
         self.text_view.setStyleSheet("QTextEdit{font-size:20px;}")
         self.text_view.setVerticalScrollBarPolicy(QtCore.Qt.ScrollBarAlwaysOff)
+        self.update_text("open a srt file...")
         self.sld_time.setTracking(True)
         self.sld_time.setSingleStep(0)
         self.sld_time.setPageStep(0)
