@@ -3,10 +3,10 @@
 Python version: 3.6^;
 
 Python package required:
-pip install PyQt5 chardet pynput;
+pip install PyQt5 chardet pynput
 
 Run:
-python SrtPlayer.py;
+python SrtPlayer.py
 
 Hotkeys:
 1. right/left arrow keys: fastfoward/backword 0.1 seconds;
