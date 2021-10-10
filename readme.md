@@ -1,5 +1,7 @@
 # SrtPlayer
 
+OS: Windows 10, Linux;
+
 Python version: 3.6^;
 
 Python package required:
